@@ -2,8 +2,14 @@
 
 ## Role assignment
 
+# - Users can tell the bot what language roles they would like to assign to them by saying 'I'm into Rust' or 'assign me the python role'
+# - Users should be able to add pronoun roles. Maybe we do this one as a reaction role 
+
 
 ## Moderation
 
 
 ## Discussion suggestiong
+
+
+## Currency and rewards?
