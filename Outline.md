@@ -13,3 +13,6 @@
 
 
 ## Currency and rewards?
+
+
+## Integrate a language model so the bot can answer any question. (this might be something that costs money if not hosted locally)
